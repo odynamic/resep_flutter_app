@@ -1,16 +1,17 @@
-# resepmakanan
+# Resep Tradisional App
 
-A new Flutter project.
+**Nama Lengkap**: Dyah Ghaniya Putri
+**NIM**: H1D023022
+**Kelas**: Pemrograman Mobile A
 
-## Getting Started
+Aplikasi ini dibuat menggunakan **Flutter** dan **GetX** untuk manajemen state. Fungsinya untuk menampilkan berbagai resep tradisional Indonesia lengkap dengan detail resep, tips memasak, favorite, profil chef, dan kontak.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Fitur Utama
+- **Home**: Menampilkan daftar resep tradisional dalam bentuk grid. Bisa search resep dan klik untuk detail.  
+- **Detail Resep**: Menampilkan bahan, alat, dan langkah-langkah masak dari resep yang dipilih.  
+- **Favorite**: Menyimpan resep yang ditandai favorit. Bisa diakses melalui bottom navigation.  
+- **Chef**: Menampilkan profil Chef Juna Rorimpandey dengan foto dan bio.  
+- **Contact**: Menampilkan info kontak chef dengan ikon untuk email, telepon, dan Instagram.  
+- **Tips Memasak**: (opsional) Halaman tips memasak untuk mendukung pengalaman pengguna.  
