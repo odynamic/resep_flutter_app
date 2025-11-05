@@ -1,8 +1,8 @@
 # Resep Tradisional App
 
-**Nama Lengkap**: Dyah Ghaniya Putri
-**NIM**: H1D023022
-**Kelas**: Pemrograman Mobile A
+- **Nama Lengkap**: Dyah Ghaniya Putri
+- **NIM**: H1D023022
+- **Kelas**: Pemrograman Mobile A
 
 Aplikasi ini dibuat menggunakan **Flutter** dan **GetX** untuk manajemen state. Fungsinya untuk menampilkan berbagai resep tradisional Indonesia lengkap dengan detail resep, tips memasak, favorite, profil chef, dan kontak.
 
