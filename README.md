@@ -14,4 +14,4 @@ Aplikasi ini dibuat menggunakan **Flutter** dan **GetX** untuk manajemen state. 
 - **Favorite**: Menyimpan resep yang ditandai favorit. Bisa diakses melalui bottom navigation.  
 - **Chef**: Menampilkan profil Chef Juna Rorimpandey dengan foto dan bio.  
 - **Contact**: Menampilkan info kontak chef dengan ikon untuk email, telepon, dan Instagram.  
-- **Tips Memasak**: (opsional) Halaman tips memasak untuk mendukung pengalaman pengguna.  
+- **Tips Memasak**: Halaman tips memasak untuk mendukung pengalaman pengguna.  
